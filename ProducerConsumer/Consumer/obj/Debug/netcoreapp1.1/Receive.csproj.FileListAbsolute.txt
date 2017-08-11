@@ -1,0 +1,8 @@
+C:\TestProjects\RabbitMQExamples\Receive\bin\Debug\netcoreapp1.1\Receive.deps.json
+C:\TestProjects\RabbitMQExamples\Receive\bin\Debug\netcoreapp1.1\Receive.runtimeconfig.json
+C:\TestProjects\RabbitMQExamples\Receive\bin\Debug\netcoreapp1.1\Receive.runtimeconfig.dev.json
+C:\TestProjects\RabbitMQExamples\Receive\bin\Debug\netcoreapp1.1\Receive.dll
+C:\TestProjects\RabbitMQExamples\Receive\bin\Debug\netcoreapp1.1\Receive.pdb
+C:\TestProjects\RabbitMQExamples\Receive\obj\Debug\netcoreapp1.1\Receive.AssemblyInfo.cs
+C:\TestProjects\RabbitMQExamples\Receive\obj\Debug\netcoreapp1.1\Receive.dll
+C:\TestProjects\RabbitMQExamples\Receive\obj\Debug\netcoreapp1.1\Receive.pdb
